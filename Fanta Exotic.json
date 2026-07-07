@@ -1,0 +1,138 @@
+
+{
+    "name": "Fanta Exotic",
+    "description": "Made with love by me,",
+    "authors": [
+        {
+            "name": "btmc727",
+            "id": "554071670143451176"
+        }
+
+    ],
+    "semanticColors": {
+        "HEADER_PRIMARY": [
+            "#EFDFD7"
+        ],
+        "HEADER_SECONDARY": [
+            "#F40002"
+        ],
+        "TEXT_NORMAL": [
+            "#F40002"
+        ],
+        "TEXT_MUTED": [
+            "#F40002"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#F40002"
+        ],
+        "INTERACTIVE_HOVER": [
+            "#503E38"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#F40002"
+        ],
+        "INTERACTIVE_MUTED": [
+            "#957261"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "#F40002"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#F40002"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#F40002"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#F40002"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#503E38"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#15100d"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#15100d"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#15100d"
+        ],
+        "BACKGROUND_NESTED_FLOATING": [
+            "#15100d"
+        ],
+       
+        "BACKGROUND_MESSAGE_HOVER": [
+            "#322720"
+        ],
+        "BACKGROUND_MODIFIER_HOVER": [
+            "#322720"
+        ],
+        "BACKGROUND_MODIFIER_ACTIVE": [
+            "#7C5A4D"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#372d2b"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "#CB9A8D"
+        ],
+        "SCROLLBAR_THIN_THUMB": [
+            "#26273b"
+        ],
+        "SCROLLBAR_THIN_TRACK": [
+            "transparent"
+        ],
+        "SCROLLBAR_AUTO_THUMB": [
+            "#DAC0B3"
+        ],
+        "SCROLLBAR_AUTO_TRACK": [
+            "#DAC0B3"
+        ],
+        "CHANNELTEXTAREA_BACKGROUND": [
+            "#372E29"
+        ],
+        "CHANNELS_DEFAULT": [
+            "#9E8376"
+        ],
+        "TEXT_LINK": [
+            "#9E8376"
+        ],
+        "TEXT_DANGER": [
+            "#F40002"
+        ],
+        "KEYBOARD": [
+            "#110D0A"
+        ],
+        "CHANNEL_ICON": [
+            "#7CB935"
+        ],
+        "CHAT_BACKGROUND": [
+            "#7C5A4D"
+        ]
+    },
+    "rawColors": {
+        "PRIMARY_500": "#7CB935",
+        "PRIMARY_100": "#EFDFD7",
+        "PRIMARY_200": "#F4EAE5",
+        "PRIMARY_300": "#7CB935",
+        "PRIMARY_360": "#7CB935",
+        "PRIMARY_400": "#7CB935",
+        "PRIMARY_600": "#100D0A",
+        "PRIMARY_630": "#1B1411",
+        "PRIMARY_660": "#1B1411",
+        "PRIMARY_700": "#100D0A",
+        "PRIMARY_800": "#100D0A",
+        "BRAND_260": "#7CB935",
+        "BRAND_360": "#7CB935",
+        "BRAND_500": "#7CB935",
+        "BRAND_560": "#7CB935",
+        "YELLOW_300": "#7CB935",
+        "GREEN_600": "#7CB935",
+        "RED_400": "#7CB935",
+        "WHITE_500": "#7CB935",
+        "GREEN_360": "#503E38"
+    },
+    "spec": 2
+}
+
