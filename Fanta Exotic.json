@@ -9,16 +9,16 @@
     ],
     "semanticColors": {
         "HEADER_PRIMARY": [
-            "#F40002"
+            "#F4EAE5"
         ],
         "HEADER_SECONDARY": [
-            "#6FA83F"
+            "#B39C8C"
         ],
         "TEXT_NORMAL": [
-            "#E8D8CE"
+            "#F4EAE5"
         ],
         "TEXT_MUTED": [
-            "#8A9E6E"
+            "#8A6F68"
         ],
         "TEXT_LINK": [
             "#6FA83F"
@@ -27,13 +27,13 @@
             "#F40002"
         ],
         "INTERACTIVE_NORMAL": [
-            "#8A9E6E"
+            "#B39C8C"
         ],
         "INTERACTIVE_HOVER": [
-            "#6FA83F"
+            "#F4EAE5"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#E8D8CE"
+            "#F40002"
         ],
         "INTERACTIVE_MUTED": [
             "#4D2A28"
@@ -96,21 +96,21 @@
             "#150A08"
         ],
         "CHANNELS_DEFAULT": [
-            "#8A9E6E"
+            "#B39C8C"
         ],
         "KEYBOARD": [
             "#0D0605"
         ],
         "CHANNEL_ICON": [
-            "#8A9E6E"
+            "#B39C8C"
         ],
         "CHAT_BACKGROUND": [
             "#0D0605"
         ]
     },
     "rawColors": {
-        "PRIMARY_200": "#6FA83F",
-        "PRIMARY_300": "#4A7A2A",
+        "PRIMARY_200": "#B39C8C",
+        "PRIMARY_300": "#6FA83F",
         "PRIMARY_360": "#4D2A28",
         "PRIMARY_400": "#4A7A2A",
         "PRIMARY_500": "#F40002",
@@ -126,15 +126,15 @@
         "GREEN_600": "#4A7A2A",
         "GREEN_360": "#3D6B23",
         "RED_400": "#F40002",
-        "WHITE_500": "#E8D8CE",
+        "WHITE_500": "#F4EAE5",
         "BLACK_500": "#4A7A2A",
-        "PLUM_3": "#E8D8CE",
+        "PLUM_3": "#F4EAE5",
         "PLUM_4": "#F40002",
-        "PLUM_6": "#E8D8CE",
-        "PLUM_9": "#6FA83F",
-        "PLUM_10": "#6FA83F",
-        "PLUM_11": "#8A9E6E",
-        "PLUM_13": "#8A9E6E",
+        "PLUM_6": "#F4EAE5",
+        "PLUM_9": "#B39C8C",
+        "PLUM_10": "#B39C8C",
+        "PLUM_11": "#8A6F68",
+        "PLUM_13": "#8A6F68",
         "PLUM_14": "#4D2A28",
         "PLUM_15": "#3A1C18",
         "PLUM_16": "#2A1512",
